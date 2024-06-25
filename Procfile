@@ -1,0 +1,1 @@
+web: gunicorn myChat.py: --log-file -
